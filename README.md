@@ -1,2 +1,2 @@
 # VoltaPress
-Ideas for publication
+Ideas for publication. This is where all my publication ideas will live.
